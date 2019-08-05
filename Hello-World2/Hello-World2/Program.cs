@@ -11,6 +11,8 @@ namespace Hello_World2
         static void Main(string[] args)
         {
             Console.WriteLine("Class C#");
+            Console.ReadLine();
+            // This comment
         }
     }
 }
